@@ -25,7 +25,7 @@ He leaned back in his chair, the kind of cheap office chair that squeaked when y
 
 "I am aware," he said to his reflection, speaking the words like an incantation, "of what I ought to be."
 
-Neville Goddard would approve of that sentence. Consciousness is the only reality. What you are aware of, you become. Moteka had read *The Power of Awareness* seventeen times. He'd highlighted it, annotated it, argued with it in the margins. He knew the truth of it the way you know the truth of gravity—by living it, by falling and falling and falling until you learned to fly.
+An old mystic would approve of that sentence. Consciousness is the only reality. What you are aware of, you become. Moteka had read *The Art of Conscious Creation* seventeen times. He'd highlighted it, annotated it, argued with it in the margins. He knew the truth of it the way you know the truth of gravity—by living it, by falling and falling and falling until you learned to fly.
 
 But here's the thing about awareness: knowing what you should be and *being* it are separated by a gulf as wide as the Karoo sky above him.
 
@@ -165,7 +165,7 @@ The cursor blinked.
 
 "I do," he whispered to the empty room.
 
-He was avoiding himself. The self that he knew he should be. The self that Neville Goddard would tell him he already was, if only he'd claim it. The self that didn't hide in Warrenton. The self that didn't take contracts anonymously. The self that didn't disappear into code at 4:00 AM to avoid thinking about the war inside his skull.
+He was avoiding himself. The self that he knew he should be. The self that the old mystic would tell him he already was, if only he'd claim it. The self that didn't hide in Warrenton. The self that didn't take contracts anonymously. The self that didn't disappear into code at 4:00 AM to avoid thinking about the war inside his skull.
 
 He was avoiding Moteka Mokoena.
 
@@ -596,7 +596,7 @@ The war with himself, again.
 
 *I am aware,* he thought, *that I am undercharging not from strategy but from fear.*
 
-And once you're aware of something, Neville Goddard would say, you have to decide: will you change it, or will you keep being it?
+And once you're aware of something, the old mystic would say, you have to decide: will you change it, or will you keep being it?
 
 Moteka turned back to his code.
 
@@ -784,7 +784,7 @@ The cursor blinked on the monitor. Outside, Warrenton continued its slow Thursda
 
 "I'm aware," he said quietly, "that I am not the person I should be."
 
-"There it is," Naledi said. "The Neville Goddard line. 'I am aware.' But here's what Goddard also said: awareness without revision is just suffering. You're aware you're hiding. You're aware you're undercharging. You're aware you're afraid. But you haven't revised anything. You're just... aware and stuck."
+"There it is," Naledi said. "The mystic's line. 'I am aware.' But here's what the teacher also said: awareness without revision is just suffering. You're aware you're hiding. You're aware you're undercharging. You're aware you're afraid. But you haven't revised anything. You're just... aware and stuck."
 
 "What would you have me do? Go back to conferences? Get destroyed again? Put my name on everything and wait for the next mob to come?"
 
@@ -923,7 +923,7 @@ I am aware that:
 The question is not whether I know this.
 The question is: what will I revise?
 
-Neville Goddard says: "You must assume the feeling of the wish fulfilled."
+The old mystic says: "You must assume the feeling of the wish fulfilled."
 
 What is the wish?
 To stop hiding.
@@ -1130,7 +1130,7 @@ Marcus nodded slowly. "That's the most honest thing anyone's said to me in six m
 
 "Awareness without revision is suffering."
 
-"Neville Goddard. You read him?"
+"The old mystic. You read him?"
 
 "Seventeen times."
 
@@ -1319,7 +1319,7 @@ Maybe connection is how we fix that.
 TODO: Meet Thabo tomorrow. Teach him. Learn from him.
 TODO: Decide about Cape Town. Six weeks. Can I feel brave in six weeks?
 
-Neville Goddard says: "Assume the feeling of the wish fulfilled."
+The old mystic says: "Assume the feeling of the wish fulfilled."
 
 Can I feel standing on that stage? Telling the truth? Not apologizing?
 
@@ -1603,11 +1603,11 @@ Moteka considered lying. Decided against it. "Yes. But I'm working on it."
 
 "By revising the story I tell myself. By changing what I'm aware of being. By choosing better over safe."
 
-Thabo frowned. "That sounds like Neville Goddard."
+Thabo frowned. "That sounds like the old mystic."
 
 "You've read him?"
 
-"My mother gave me *The Power of Awareness* before she died. Said it would help me understand that reality is what we choose to be conscious of." His voice was quiet. "I didn't understand it then. I'm starting to now."
+"My mother gave me *The Art of Conscious Creation* before she died. Said it would help me understand that reality is what we choose to be conscious of." His voice was quiet. "I didn't understand it then. I'm starting to now."
 
 Moteka felt something shift. Recognition again. This kid wasn't just smart. He was aware. Fighting the same war Moteka had been fighting.
 
@@ -1691,7 +1691,7 @@ The words landed like a punch.
 
 "Those are the same thing."
 
-"No. They're not. Awareness without revision is just suffering. You taught me that. Neville Goddard taught you that. But you're still suffering."
+"No. They're not. Awareness without revision is just suffering. You taught me that. The old mystic taught you that. But you're still suffering."
 
 Moteka stood. Walked to the window. Looked out at Warrenton.
 
@@ -1727,7 +1727,7 @@ Moteka turned from the window. "You'd come? To Cape Town?"
 
 "Then I'll learn from that too. I'll learn that being destroyed isn't the same as being wrong. That public opinion isn't the same as truth. That some things are worth saying even if they cost you everything."
 
-Moteka looked at this twenty-four-year-old kid from Soweto with patches in his jeans and Neville Goddard in his backpack and code like jazz in his laptop, and he realized something:
+Moteka looked at this twenty-four-year-old kid from Soweto with patches in his jeans and the mystic's book in his backpack and code like jazz in his laptop, and he realized something:
 
 The pattern was transferring. But not the way he'd expected.
 
@@ -1782,7 +1782,7 @@ Except: maybe the teacher needs to become the student.
 TODO: Decide about Cape Town. Not in six weeks. Now.
 TODO: Either commit or admit I'm a coward.
 
-Neville Goddard says: "Assume the feeling of the wish fulfilled."
+The old mystic says: "Assume the feeling of the wish fulfilled."
 
 Can I feel standing on that stage?
 Can I feel telling the truth?
@@ -1866,7 +1866,7 @@ Both ways.
 
 ---
 
-### CHAPTER 6: The Power of Awareness
+### CHAPTER 6: The Art of Conscious Creation
 
 The email was sent.
 
@@ -1892,7 +1892,7 @@ But Thabo's words echoed: "Awareness without revision is suffering."
 
 And Moteka had been suffering for three years.
 
-He walked back to his computer. Opened a new file. And for the first time since London, he did what Neville Goddard had taught him to do seventeen readings ago:
+He walked back to his computer. Opened a new file. And for the first time since London, he did what the old mystic had taught him to do seventeen readings ago:
 
 He began the work of revision.
 
@@ -1900,7 +1900,7 @@ He began the work of revision.
 
 **REVISION: PART ONE**
 
-Goddard said: "If you would change your life, you must begin by changing your concept of yourself."
+The teacher said: "If you would change your life, you must begin by changing your concept of yourself."
 
 Moteka typed:
 
@@ -1913,14 +1913,14 @@ Came home. Hid. Became safe but not better.
 
 This story is true.
 But it is not the ONLY truth.
-And Goddard says: the past is not fixed.
+And the mystic says: the past is not fixed.
 The past is what we remember. What we give power to.
 So what if I revise it?
 ```
 
 He closed his eyes.
 
-Goddard's voice, memorized from seventeen readings, spoke in his mind: *"You must enter into the feeling of your wish fulfilled. You do not command things to be. You accept that they are."*
+The teacher's voice, memorized from seventeen readings, spoke in his mind: *"You must enter into the feeling of your wish fulfilled. You do not command things to be. You accept that they are."*
 
 Moteka let himself drift back. Not to the London that had happened. To the London that could have been.
 
@@ -1980,7 +1980,7 @@ The workshop was dark except for the monitor's glow.
 
 That hadn't happened. That London didn't exist.
 
-Except—and this was Goddard's insight—*in consciousness, it did now*.
+Except—and this was the mystic's insight—*in consciousness, it did now*.
 
 He'd revised it. Not to deny the past, but to rewrite what it meant. To change the story he told himself about who he was and what had happened.
 
@@ -1990,7 +1990,7 @@ The new story: "I said true things poorly in London. In Cape Town, I'll say them
 
 Same event. Different meaning. Different future.
 
-Goddard called this revision. Psychologists called it reframing. Moteka called it: the algorithm of consciousness.
+The teacher called this revision. Psychologists called it reframing. Moteka called it: the algorithm of consciousness.
 
 ```python
 def revise_past(event: Memory, new_meaning: Interpretation) -> Future:
@@ -2010,7 +2010,7 @@ Then he moved to the next technique.
 
 **ASSUMPTION: PART TWO**
 
-Goddard said: "Assume the feeling of your wish fulfilled. Feel yourself into the state of your fulfilled desire. What would it feel like if it were true now?"
+The teacher said: "Assume the feeling of your wish fulfilled. Feel yourself into the state of your fulfilled desire. What would it feel like if it were true now?"
 
 Moteka typed:
 
@@ -2026,7 +2026,7 @@ Can I feel that? Not imagine it. FEEL it.
 
 He closed his eyes again.
 
-Goddard's instruction was specific: Don't visualize from outside. Feel from inside. First-person. Present tense. As if it's happening NOW.
+The teacher's instruction was specific: Don't visualize from outside. Feel from inside. First-person. Present tense. As if it's happening NOW.
 
 Moteka let himself enter the scene.
 
@@ -2110,7 +2110,7 @@ His workshop. Midnight. Warrenton.
 
 But the feeling lingered. The assumption had worked. For those few minutes, he'd been there. Felt it. Inhabited it.
 
-Goddard said: "The only difference between you and your wish fulfilled is a feeling. Change the feeling, change the reality."
+The teacher said: "The only difference between you and your wish fulfilled is a feeling. Change the feeling, change the reality."
 
 Moteka wasn't sure he believed that completely. He was too much of an empiricist.
 
@@ -2171,7 +2171,7 @@ He'd written the logic. But what about the emotion?
 
 What about the thing that would make ten thousand people—half of whom wanted to hate him—actually listen?
 
-He thought about Thabo. About the patches in his jeans and the Neville Goddard in his backpack and the way he'd said: "Maybe we can be scared together."
+He thought about Thabo. About the patches in his jeans and the mystic's book in his backpack and the way he'd said: "Maybe we can be scared together."
 
 That was it.
 
@@ -2230,7 +2230,7 @@ Six weeks until Cape Town.
 
 He could spend those six weeks in fear. Or he could spend them in preparation.
 
-Goddard would say: spend them in assumption. Live as if it's already done. Feel the wish fulfilled not just once, but constantly, until the external reality matches the internal one.
+The teacher would say: spend them in assumption. Live as if it's already done. Feel the wish fulfilled not just once, but constantly, until the external reality matches the internal one.
 
 Moteka opened his final awareness log entry:
 
@@ -2269,7 +2269,7 @@ Six weeks to refine the message.
 Six weeks to practice the speech.
 Six weeks to live as if I'm already the person who does this.
 
-Neville Goddard says: "Do not try to change circumstances.
+The old mystic says: "Do not try to change circumstances.
 Change yourself. And circumstances will change."
 
 I am no longer Moteka who hides.
