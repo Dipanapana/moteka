@@ -9,7 +9,7 @@
 
 ### CHAPTER 1: The Algorithm at Midnight
 
-The cursor blinked at Moteka Mokoena like an accusation.
+The cursor blinked at Moteka Tlhoro like an accusation.
 
 3:47 AM. Warrenton, Northern Cape. The kind of silence that only exists in small towns where the nearest city might as well be on another planet. His workshop—a converted garage behind a modest house on a street without streetlights—glowed with the blue-white light of three monitors. The algorithms flowed from his fingers like water from a spring, each line of code a small act of creation that would, in six months, optimize a supply chain in Stuttgart that currently wasted forty-three million rand per quarter.
 
@@ -87,7 +87,7 @@ His job wasn't to convince anyone. His job was to build.
 
 And yet...
 
-He saved the file, pushed back from the desk, and walked to the window. Warrenton at 4:00 AM looked like every small town looks at 4:00 AM—asleep, dreaming its small-town dreams. When he was younger, he'd wanted to escape this place. University in Johannesburg, then job offers from Cape Town, from London, from California. The world had wanted Moteka Mokoena, the brilliant programmer, the mathematical prodigy, the man who could see patterns in chaos.
+He saved the file, pushed back from the desk, and walked to the window. Warrenton at 4:00 AM looked like every small town looks at 4:00 AM—asleep, dreaming its small-town dreams. When he was younger, he'd wanted to escape this place. University in Johannesburg, then job offers from Cape Town, from London, from California. The world had wanted Moteka Tlhoro, the brilliant programmer, the mathematical prodigy, the man who could see patterns in chaos.
 
 He'd turned them all down.
 
@@ -129,7 +129,7 @@ The question echoed in the workshop.
 
 Afraid of what?
 
-*Of being seen. Of being known. Of standing in the light and saying, "I am Moteka Mokoena. I am the builder. I made this. I deserve to be paid what it's worth. I deserve your respect, your attention, your awe."*
+*Of being seen. Of being known. Of standing in the light and saying, "I am Moteka Tlhoro. I am the builder. I made this. I deserve to be paid what it's worth. I deserve your respect, your attention, your awe."*
 
 He turned from the window sharply, as if he could physically turn away from the thought.
 
@@ -181,7 +181,7 @@ The cursor blinked.
 
 He was avoiding himself. The self that he knew he should be. The self that the old mystic would tell him he already was, if only he'd claim it. The self that didn't hide in Warrenton. The self that didn't take contracts anonymously. The self that didn't disappear into code at 4:00 AM to avoid thinking about the war inside his skull.
 
-He was avoiding Moteka Mokoena.
+He was avoiding Moteka Tlhoro.
 
 And somewhere, in the back of his mind, a question formed. It sounded like his voice, but older. Wiser. More certain.
 
@@ -240,7 +240,7 @@ He sipped his coffee and waited.
 
 The man knocked on the workshop door. Moteka didn't move. The second knock came louder. The third knock came with a voice:
 
-"Mr. Mokoena? I know you're home. I can see your car."
+"Mr. Tlhoro? I know you're home. I can see your car."
 
 Moteka looked at his 2015 Toyota Corolla, parked next to the absurd Mercedes. The contrast was almost philosophical.
 
@@ -746,7 +746,7 @@ Moteka turned away, looking at his monitors. Code scrolling. Numbers. Clean, log
 
 "I didn't stop. I'm working constantly. The German contract alone—"
 
-"You stopped *being* Moteka Mokoena. You started being... this." She gestured around the workshop. "A ghost. A phantom who builds things for other people's glory. When did that happen?"
+"You stopped *being* Moteka Tlhoro. You started being... this." She gestured around the workshop. "A ghost. A phantom who builds things for other people's glory. When did that happen?"
 
 "It didn't happen. It was a choice."
 
@@ -828,7 +828,7 @@ The things he wanted to do, he did not do. The things he hated—the hiding, the
 
 "And who is that?"
 
-"Moteka Mokoena. Builder. Someone who believes what you said in London—all of it—but sober. Someone who will say it clearly, defend it rationally, and refuse to apologize for creating value and being compensated for it."
+"Moteka Tlhoro. Builder. Someone who believes what you said in London—all of it—but sober. Someone who will say it clearly, defend it rationally, and refuse to apologize for creating value and being compensated for it."
 
 "They'll destroy me again."
 
@@ -954,7 +954,7 @@ I am aware that:
 2. I am undercharging from fear, not strategy
 3. I am disappearing instead of emerging
 4. I am building alone when I could be building with others
-5. I am Moteka Mokoena. I am a builder.
+5. I am Moteka Tlhoro. I am a builder.
 
 The question is not whether I know this.
 The question is: what will I revise?
@@ -1026,7 +1026,7 @@ But his hands gave him away. They were a builder's hands. Callused slightly. One
 
 Marcus stood when Moteka approached. Extended his hand.
 
-"Moteka Mokoena. I'd recognize you from your conference photos if they weren't three years old."
+"Moteka Tlhoro. I'd recognize you from your conference photos if they weren't three years old."
 
 "Marcus Wright. I'd recognize you from your acquisition announcement if I read TechCrunch."
 
@@ -1394,7 +1394,7 @@ Moteka recognized that look. He'd seen it in his own mirror.
 
 Thabo knocked. Three times. Precise. Like someone used to knocking on doors that might not open.
 
-"Mr. Mokoena?" His voice was careful. Respectful. "I'm Thabo Ndlovu. Dr. Khumalo said you might—"
+"Mr. Tlhoro?" His voice was careful. Respectful. "I'm Thabo Ndlovu. Dr. Khumalo said you might—"
 
 "Come in." Moteka stepped aside. "And it's Moteka. Surnames are for people who stand on ceremony."
 
@@ -1836,7 +1836,7 @@ Maybe fear isn't something you eliminate.
 Maybe it's something you feel and do it anyway.
 
 Revision:
-I am Moteka Mokoena.
+I am Moteka Tlhoro.
 I am a builder.
 I deserve to profit from what I create.
 And I will say it publicly.
@@ -1920,7 +1920,7 @@ The terror arrived exactly three minutes after clicking send. It came in waves�
 
 *What have you done?*
 
-He stood. Walked to the window. Warrenton at midnight looked exactly like Warrenton at any other hour—dark, quiet, indifferent. The universe did not care that Moteka Mokoena had just committed to the thing he'd been running from for three years.
+He stood. Walked to the window. Warrenton at midnight looked exactly like Warrenton at any other hour—dark, quiet, indifferent. The universe did not care that Moteka Tlhoro had just committed to the thing he'd been running from for three years.
 
 *You can unsend it. Email Marcus. Tell him you made a mistake. Go back to safe.*
 
@@ -2080,7 +2080,7 @@ And Moteka is holding a microphone. His hands are steady. His mind is clear. No 
 
 He speaks:
 
-"My name is Moteka Mokoena. I'm a builder. I create AI systems that save companies millions of rand. And I charge what they're worth.
+"My name is Moteka Tlhoro. I'm a builder. I create AI systems that save companies millions of rand. And I charge what they're worth.
 
 "Some of you think that's wrong. That technology should be free. That profit is exploitation. That if I really cared about helping people, I'd give my work away.
 
@@ -2321,7 +2321,7 @@ He saved the file.
 
 Shut down the monitor.
 
-And for the first time in three years, Moteka Mokoena went to bed without fighting himself.
+And for the first time in three years, Moteka Tlhoro went to bed without fighting himself.
 
 ---
 
@@ -2759,7 +2759,7 @@ From: j.kruger@freshchoice.co.za
 To: moteka@mokoena.tech
 Subject: Consultation Request - Urgent
 
-Mr. Mokoena,
+Mr. Tlhoro,
 
 I don't know if you remember me. We met two years ago at the Cape Town Business Forum. You presented a proposal for inventory optimization across my retail chain.
 
@@ -2796,7 +2796,7 @@ My rates have increased since then. Current implementation for your scale would 
 However, I'll be in Cape Town in two weeks for the Pan-African Tech Summit. I'm speaking Wednesday afternoon. If you'd like to attend my session and discuss afterward, I'm open to that conversation.
 
 Best,
-Moteka Mokoena
+Moteka Tlhoro
 ```
 
 He hit send before he could second-guess himself.
@@ -2823,7 +2823,7 @@ Desperation, maybe.
 
 Or humility.
 
-"Mr. Mokoena," Johannes said, extending his hand. "Thank you for agreeing to meet."
+"Mr. Tlhoro," Johannes said, extending his hand. "Thank you for agreeing to meet."
 
 They found a quiet corner away from the conference buzz. Through the floor-to-ceiling windows, Table Mountain loomed against the evening sky.
 
@@ -3143,7 +3143,7 @@ His phone buzzed.
 
 **Moteka:** A is A.
 
-**Naledi:** A is A. You are Moteka Mokoena. You are a builder. You create value. You charge what it's worth. Tomorrow you just tell everyone else why that's not just acceptable—it's necessary.
+**Naledi:** A is A. You are Moteka Tlhoro. You are a builder. You create value. You charge what it's worth. Tomorrow you just tell everyone else why that's not just acceptable—it's necessary.
 
 **Moteka:** I'm glad you'll be there.
 
@@ -3297,7 +3297,7 @@ Moteka stood.
 
 Every face in the room turned toward him.
 
-"Moteka Mokoena," he said. "I build AI systems. I charge premium prices for them. And I'd like to challenge Ms. Maseko's premise."
+"Moteka Tlhoro," he said. "I build AI systems. I charge premium prices for them. And I'd like to challenge Ms. Maseko's premise."
 
 Lindiwe's eyes narrowed slightly. "You're speaking this afternoon, aren't you? 'The Builder's Moral Right to Profit.'"
 
@@ -3369,7 +3369,7 @@ The room was utterly silent now.
 
 ---
 
-One of the academics cleared her throat. "Mr. Mokoena makes a valid point. It's difficult for regulatory bodies to assess 'reasonable profit' in highly specialized technical fields."
+One of the academics cleared her throat. "Mr. Tlhoro makes a valid point. It's difficult for regulatory bodies to assess 'reasonable profit' in highly specialized technical fields."
 
 "Then we hire technical advisors," Lindiwe said.
 
@@ -3421,7 +3421,7 @@ The moderator tried to regain control. "Perhaps we should—"
 
 Lindiwe stood now too.
 
-"Let me tell you what I see, Mr. Mokoena. I see a small group of technically skilled people charging enormous sums for technology that solves problems they didn't create. I see private profit being extracted from public necessity. I see the consolidation of power in the hands of people who control algorithms that affect millions of lives. And I see zero accountability."
+"Let me tell you what I see, Mr. Tlhoro. I see a small group of technically skilled people charging enormous sums for technology that solves problems they didn't create. I see private profit being extracted from public necessity. I see the consolidation of power in the hands of people who control algorithms that affect millions of lives. And I see zero accountability."
 
 "You want accountability?" Moteka said. "Talk to Amara's twelve thousand living patients. Talk to Sofia's forty-five million fed people. Talk to David's eight hundred thousand migrant workers saving millions in fees. They're the accountability. They chose to pay for these services because the value exceeded the cost. That's not exploitation—that's exchange."
 
@@ -3437,7 +3437,7 @@ Lindiwe stood now too.
 
 The moderator finally stepped in. "I think we're running over time. Let's thank our panelists—"
 
-"One last thing," Lindiwe said, her voice cold. "I'm curious what you'll say in your speech this afternoon, Mr. Mokoena. How you'll defend profit when people are dying. How you'll justify charging millions when public funds are scarce. How you'll convince anyone that private control of public-necessity AI is anything other than modern feudalism."
+"One last thing," Lindiwe said, her voice cold. "I'm curious what you'll say in your speech this afternoon, Mr. Tlhoro. How you'll defend profit when people are dying. How you'll justify charging millions when public funds are scarce. How you'll convince anyone that private control of public-necessity AI is anything other than modern feudalism."
 
 Moteka met her eyes.
 
@@ -3703,7 +3703,7 @@ About the moment he'd stopped fighting.
 
 *The rest will follow.*
 
-"Mr. Mokoena?" A stagehand gestured. "You're on."
+"Mr. Tlhoro?" A stagehand gestured. "You're on."
 
 ---
 
@@ -3711,7 +3711,7 @@ The introduction was mercifully brief.
 
 Thandiwe walked onstage, welcomed the overflow crowd, noted that this was the most-attended session of the summit.
 
-"Our next speaker," she said, "is something of an enigma in the AI world. He builds systems from a small town in the Northern Cape. His clients include Fortune 500 companies. He charges premium prices and has a waiting list of organizations eager to work with him. And he's here today to talk about something we don't discuss enough in tech: the moral right of builders to profit from what they create. Please welcome Moteka Mokoena."
+"Our next speaker," she said, "is something of an enigma in the AI world. He builds systems from a small town in the Northern Cape. His clients include Fortune 500 companies. He charges premium prices and has a waiting list of organizations eager to work with him. And he's here today to talk about something we don't discuss enough in tech: the moral right of builders to profit from what they create. Please welcome Moteka Tlhoro."
 
 Applause.
 
@@ -3954,7 +3954,7 @@ Moteka stepped away from the podium. No slides now. Just him and the audience.
 
 He looked across the room. Front to back. Left to right.
 
-"I am Moteka Mokoena. I build AI systems. I charge premium prices for them. And I will not apologize for that."
+"I am Moteka Tlhoro. I build AI systems. I charge premium prices for them. And I will not apologize for that."
 
 "I will not apologize because I create more value than I capture. Because my clients are better off after working with me than before. Because the alternative to my expensive systems is no systems at all."
 
@@ -4026,7 +4026,7 @@ He walked back to the podium. Gripped its edges.
 
 "I'll close with this."
 
-"My name is Moteka Mokoena. I'm from Warrenton, Northern Cape, South Africa. I write code at 3 AM in a workshop while the rest of my town sleeps. I build systems that solve problems most people don't know exist."
+"My name is Moteka Tlhoro. I'm from Warrenton, Northern Cape, South Africa. I write code at 3 AM in a workshop while the rest of my town sleeps. I build systems that solve problems most people don't know exist."
 
 "I charge millions for my work. My clients pay gladly because the value I create exceeds the price I charge. I make more money than ninety-nine percent of people in my province. Probably in my country."
 
@@ -4122,7 +4122,7 @@ Fourth question: Lindiwe Maseko.
 
 She stood, and the room went quiet.
 
-"Mr. Mokoena. This morning, you and I had a disagreement about whether AI systems that perform public functions should be publicly owned. You didn't really answer my question then. So I'll ask it again: why should private individuals be allowed to own critical infrastructure?"
+"Mr. Tlhoro. This morning, you and I had a disagreement about whether AI systems that perform public functions should be publicly owned. You didn't really answer my question then. So I'll ask it again: why should private individuals be allowed to own critical infrastructure?"
 
 Moteka looked at her steadily.
 
@@ -4166,7 +4166,7 @@ Lindiwe sat down.
 
 Fifth question: Johannes Kruger.
 
-"Not a question," he said. "Just a comment. Two years ago, I turned down Mr. Mokoena's proposal because I thought his price was too high. I lost a hundred million rand learning why his price was actually too low. To anyone in this room thinking about working with a builder who charges premium prices: pay them. You'll thank yourself later."
+"Not a question," he said. "Just a comment. Two years ago, I turned down Mr. Tlhoro's proposal because I thought his price was too high. I lost a hundred million rand learning why his price was actually too low. To anyone in this room thinking about working with a builder who charges premium prices: pay them. You'll thank yourself later."
 
 Moteka allowed himself a small smile.
 
@@ -4192,7 +4192,7 @@ Moteka thought about Thabo. Twenty-four years old. MaliNow launching successfull
 
 ---
 
-Thandiwe stepped forward. "We're out of time. Please join me in thanking Moteka Mokoena."
+Thandiwe stepped forward. "We're out of time. Please join me in thanking Moteka Tlhoro."
 
 Another standing ovation.
 
