@@ -11,7 +11,7 @@
 *Who is Moteka Mokoena, and where has he gone?*
 
 **Chapter 1: The Algorithm at Midnight**
-- Setting: Warrenton, Northern Cape, 2027
+- Setting: Kimberley, Northern Cape, 2027
 - Moteka alone in his workshop, writing algorithms at 3 AM
 - Internal dialogue: His awareness vs. his reality
 - Flashback: The moment he stopped building for others
@@ -35,7 +35,7 @@
 *The choice between who he was and who he must become*
 
 **Chapter 4: The American Investor**
-- **Marcus Wright** (Silicon Valley VC) flies to Warrenton
+- **Marcus Wright** (Silicon Valley VC) flies to Kimberley
 - Wants to invest millions in Moteka's "ghost company"
 - Socratic dialogue: "What gives you the right to charge what you charge?"
 - Moteka: "What gives you the right to pay less than value received?"
@@ -86,7 +86,7 @@
 - "I am Moteka Mokoena. I am a builder. This is my choice."
 - The future: Not a retreat, but an emergence
 - Final dialogue with Naledi: "What will you build now?"
-- Epilogue: Warrenton workshop, Moteka at his computer, algorithms flowing, but now with purpose
+- Epilogue: Kimberley workshop, Moteka at his computer, algorithms flowing, but now with purpose
 
 ---
 
@@ -138,7 +138,7 @@
 ### MAIN CHARACTER
 
 **MOTEKA MOKOENA** (Age 34)
-- Origin: Warrenton, Northern Cape, South Africa
+- Origin: Kimberley, Northern Cape, South Africa
 - Background: Computer Science, Electrical Engineering, Mathematics
 - Personality: Dull but great sense of humor, tendency to isolate, works at night
 - Journey: Was at war with himself, knew what to do but didn't do it

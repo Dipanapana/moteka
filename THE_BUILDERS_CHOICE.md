@@ -14,7 +14,7 @@
 
 The cursor blinked at Moteka Tlhoro like an accusation.
 
-3:47 AM. Warrenton, Northern Cape, South Africa.
+3:47 AM. Kimberley, Northern Cape, South Africa.
 
 *You're wasting your life.*
 
@@ -24,7 +24,7 @@ The thought arrived unbidden, unwanted, but persistent. It always did at this ho
 
 "Shut up," Moteka whispered to the empty workshop.
 
-But the voice never shut up. That was the problem. That was the war he'd been fighting for three years, ever since London, ever since the disaster that made him retreat here, to Warrenton, to safety, to invisibility.
+But the voice never shut up. That was the problem. That was the war he'd been fighting for three years, ever since London, ever since the disaster that made him retreat here, to Kimberley, to safety, to invisibility.
 
 His workshop—a converted garage behind a modest house on Andries Street—glowed with the blue-white light of three monitors. The algorithms flowed from his fingers, each line of code a small act of creation. But tonight, the flow kept stopping.
 
@@ -34,7 +34,7 @@ He saved the file. Pushed back from the desk. The cheap office chair squeaked—
 
 "I said shut up."
 
-Moteka stood and walked to the window. Outside, Warrenton slept. Modest houses. Quiet streets. The occasional dog bark. The distant hum of the N12 highway carrying freight trucks between Cape Town and Johannesburg.
+Moteka stood and walked to the window. Outside, Kimberley slept. Modest houses. Quiet streets. The occasional dog bark. The distant hum of the N12 highway carrying freight trucks between Cape Town and Johannesburg.
 
 Three years ago, he'd stood in a conference hall in London, drunk, angry, and brilliant, and said things that ruined him. Three years ago, he'd been on track to become one of the most prominent AI researchers in the world. Three years ago, he'd believed his gift mattered.
 
@@ -62,7 +62,7 @@ A war between two versions of himself.
 
 The version that knew what he should do: speak publicly, build openly, charge his full value, teach the next generation, change the world with his gift.
 
-And the version that actually showed up every day: hiding, anonymous contracts, undercharging, working at 3 AM in Warrenton where nobody could see him fail again.
+And the version that actually showed up every day: hiding, anonymous contracts, undercharging, working at 3 AM in Kimberley where nobody could see him fail again.
 
 "I do not understand my own actions," he whispered to his reflection. "The things I want to do, I do not do. The things I hate doing, I keep doing."
 
@@ -78,7 +78,7 @@ Moteka had read every psychology book, every self-help manual, every meditation 
 
 *But it's not dying either.*
 
-Moteka opened his eyes and stared at his reflection in the window. Thirty-four years old. Eyes that hadn't slept properly in years. T-shirt that said "I HAVE A BOOLEAN BUT YOU WOULDN'T GET IT"—a joke nobody in Warrenton understood.
+Moteka opened his eyes and stared at his reflection in the window. Thirty-four years old. Eyes that hadn't slept properly in years. T-shirt that said "I HAVE A BOOLEAN BUT YOU WOULDN'T GET IT"—a joke nobody in Kimberley understood.
 
 He was one of the top AI engineers in Africa, possibly the world. He'd built systems that saved companies hundreds of millions. Neural networks that predicted equipment failures months in advance. Optimization algorithms that revolutionized supply chains.
 
@@ -210,7 +210,7 @@ But the system that protected him from pain also protected him from joy, from co
 
 ### PART 3: THE CONVENIENCE STORE CONFESSION
 
-At 4:15 AM, Moteka gave up on coding and walked three blocks to the only place in Warrenton that stayed open all night.
+At 4:15 AM, Moteka gave up on coding and walked three blocks to the only place in Kimberley that stayed open all night.
 
 Thandi's Convenience Store.
 
@@ -1276,7 +1276,7 @@ Mr. Sibeko was maybe seventy, maybe older—one of those men whose age was writt
 
 Moteka surprised himself by saying, "Yes. Actually, yes."
 
-They sat on the porch steps as the sun rose over Warrenton. Mr. Sibeko poured coffee from his thermos—somehow always the perfect temperature—and waited.
+They sat on the porch steps as the sun rose over Kimberley. Mr. Sibeko poured coffee from his thermos—somehow always the perfect temperature—and waited.
 
 "I got a call this morning," Moteka said. "A client in Germany. They want to pay me... a lot of money. More money than I ever imagined. But they want me visible. Public. My name on everything."
 
@@ -1360,7 +1360,7 @@ WHO AM I BECOMING?
 Current answer: Someone who hides.
 
 Evidence:
-- I live in Warrenton, away from major cities
+- I live in Kimberley, away from major cities
 - I work under generic LLC names
 - I refuse video calls
 - I undercharge to stay under the radar
@@ -1719,7 +1719,7 @@ And that changed everything.
 
 ### PART 10: THE GRADUAL CONTROL
 
-The drive back to Warrenton took two hours. Moteka used every minute of it to practice something Professor Nkosi had taught him: observing the voices.
+The drive back to Kimberley took two hours. Moteka used every minute of it to practice something Professor Nkosi had taught him: observing the voices.
 
 Not fighting them.
 Not arguing with them.
@@ -1797,7 +1797,7 @@ Mile 81-100:
 
 Mile 101-120:
 
-By the time Moteka pulled into his driveway in Warrenton, something had fundamentally changed.
+By the time Moteka pulled into his driveway in Kimberley, something had fundamentally changed.
 
 The Fear Voice was still there. But it wasn't in charge anymore.
 
@@ -1970,7 +1970,7 @@ Welcome back to the world, my friend.
 
 Moteka read it twice.
 
-Then he stood, walked to his window, and watched the sun rise over Warrenton.
+Then he stood, walked to his window, and watched the sun rise over Kimberley.
 
 Three years ago, he'd watched the sun set on his career in London.
 
@@ -2129,7 +2129,7 @@ Jakob's email sat in his inbox, already read seventeen times:
 
 Welcome back.
 
-As if he'd been gone. As if the three years in Warrenton had been a vacation from reality rather than a retreat into it.
+As if he'd been gone. As if the three years in Kimberley had been a vacation from reality rather than a retreat into it.
 
 But maybe Jakob was right. Maybe hiding wasn't reality. Maybe hiding was just a very convincing simulation of reality, where you could pretend that staying small kept you safe.
 
@@ -2274,7 +2274,7 @@ The cursor blinked.
 
 ### PART 2: THE ABSURD MERCEDES
 
-At 2:00 PM, Moteka heard an engine that didn't belong in Warrenton.
+At 2:00 PM, Moteka heard an engine that didn't belong in Kimberley.
 
 A low, expensive purr. The kind of sound that cost more than most people's annual salary.
 
@@ -3629,7 +3629,7 @@ She smiled. "That's the secret. Act like the person you're becoming until you be
 
 ---
 
-The drive back to Warrenton was different.
+The drive back to Kimberley was different.
 
 Quieter.
 
@@ -3655,7 +3655,7 @@ What if playing small was the ultimate act of selfishness—because it protected
 
 *Moteka: I'm allowed to be afraid AND choose. Fear doesn't disqualify the choice.*
 
-He pulled into Warrenton just after midnight.
+He pulled into Kimberley just after midnight.
 
 His workshop looked the same as always. Modest house. Converted garage. Monitors glowing in the windows.
 
@@ -3678,7 +3678,7 @@ Conscious. Prepared. Strategic. Visible.
 Not recklessly visible like London.
 Strategically visible like Stuttgart.
 
-Not unconsciously hiding like Warrenton.
+Not unconsciously hiding like Kimberley.
 Consciously building like someone who knows his value.
 
 He walked into his workshop and sat at his desk.
@@ -3945,7 +3945,7 @@ When can you start?
 
 Moteka read it three times.
 
-Then he stood up, walked to the window, and looked out at Warrenton.
+Then he stood up, walked to the window, and looked out at Kimberley.
 
 Modest houses. Quiet streets. The N12 highway carrying trucks between cities.
 
@@ -3982,7 +3982,7 @@ The cursor blinked.
 
 He typed.
 
-And in a converted garage in Warrenton, a man who had spent three years hiding finally decided to be seen.
+And in a converted garage in Kimberley, a man who had spent three years hiding finally decided to be seen.
 
 ---
 
@@ -4006,7 +4006,7 @@ And in a converted garage in Warrenton, a man who had spent three years hiding f
 *Next: Chapter 3 will continue Moteka's journey toward Stuttgart, confronting more inner battles and expanding his understanding of building in the light...*
 ### CHAPTER 3: The Woman Who Understood
 
-Dr. Naledi Khumalo arrived in Warrenton on a Thursday, unannounced, driving a practical Honda Civic that looked almost as out of place as Pieter's Mercedes had, but for different reasons. Practical things always looked out of place in Warrenton. The town specialized in impracticality—in existing despite having no good reason to exist, in persisting through inertia and stubbornness rather than logic or efficiency.
+Dr. Naledi Khumalo arrived in Kimberley on a Thursday, unannounced, driving a practical Honda Civic that looked almost as out of place as Pieter's Mercedes had, but for different reasons. Practical things always looked out of place in Kimberley. The town specialized in impracticality—in existing despite having no good reason to exist, in persisting through inertia and stubbornness rather than logic or efficiency.
 
 Moteka liked that about it, though he'd never admit it out loud.
 
@@ -4088,7 +4088,7 @@ He couldn't remember.
 
 "I told you why. I don't want to—"
 
-"Eighteen months ago, you published your last paper. Submitted it, actually withdrew it before publication. Since then? Nothing. No conferences. No papers. No public presence. Just contracts with anonymous clients and a workshop in Warrenton that even your own family doesn't visit."
+"Eighteen months ago, you published your last paper. Submitted it, actually withdrew it before publication. Since then? Nothing. No conferences. No papers. No public presence. Just contracts with anonymous clients and a workshop in Kimberley that even your own family doesn't visit."
 
 "My sister visits."
 
@@ -4100,7 +4100,7 @@ Moteka set down his sandwich. "How do you know that?"
 
 "I don't need—"
 
-"Yes, you do." Naledi's voice was gentle but firm. "Moteka, you're one of maybe fifty people on Earth who truly understand what you understand. You can build systems that change industries, save lives, create wealth. And you're sitting alone in Warrenton, taking contracts from people who will never know your name, building brilliance in the dark."
+"Yes, you do." Naledi's voice was gentle but firm. "Moteka, you're one of maybe fifty people on Earth who truly understand what you understand. You can build systems that change industries, save lives, create wealth. And you're sitting alone in Kimberley, taking contracts from people who will never know your name, building brilliance in the dark."
 
 "That's my choice."
 
@@ -4156,7 +4156,7 @@ Naledi winced. "That must have gone over well."
 
 Understanding crossed Naledi's face. "That's when you quit drinking."
 
-"That's when I quit everything. Drinking. Conferences. Publications. Public presence. I came back here, to Warrenton, and decided that if I couldn't say what I believed without being destroyed for it, I'd just... build. Quietly. No glory. No credit. Just value creation and compensation."
+"That's when I quit everything. Drinking. Conferences. Publications. Public presence. I came back here, to Kimberley, and decided that if I couldn't say what I believed without being destroyed for it, I'd just... build. Quietly. No glory. No credit. Just value creation and compensation."
 
 "You went into hiding."
 
@@ -4170,11 +4170,11 @@ Moteka turned to face her. "Is it? Look at what I've accomplished in three years
 
 "I'm not afraid."
 
-"Then why are you here?" Naledi's voice was soft but relentless. "In Warrenton. In a garage. Refusing to put your name on anything. Undercharging clients so they won't talk about you too much. Taking contracts from Germans who will never know your name. If you're not afraid, what are you?"
+"Then why are you here?" Naledi's voice was soft but relentless. "In Kimberley. In a garage. Refusing to put your name on anything. Undercharging clients so they won't talk about you too much. Taking contracts from Germans who will never know your name. If you're not afraid, what are you?"
 
 Silence.
 
-The cursor blinked on the monitor. Outside, Warrenton continued its slow Thursday morning. And inside, Moteka felt something crack—a small fissure in the armor he'd built around himself.
+The cursor blinked on the monitor. Outside, Kimberley continued its slow Thursday morning. And inside, Moteka felt something crack—a small fissure in the armor he'd built around himself.
 
 "I'm aware," he said quietly, "that I am not the person I should be."
 
@@ -4216,9 +4216,9 @@ Moteka walked to the window. Looked out at his street, his Corolla, the ordinary
 
 That landed hard.
 
-Moteka turned from the window. "You didn't drive six hours to Warrenton just to tell me I'm a coward."
+Moteka turned from the window. "You didn't drive six hours to Kimberley just to tell me I'm a coward."
 
-"No. I drove six hours to Warrenton to tell you there's another way." Naledi pulled out her phone and showed him something—an email thread. "There are others. Builders like you. Around the world. Tokyo. Lagos. São Paulo. Singapore. People who create extraordinary value and are tired of apologizing for it. People who are starting to connect. To share. To support each other."
+"No. I drove six hours to Kimberley to tell you there's another way." Naledi pulled out her phone and showed him something—an email thread. "There are others. Builders like you. Around the world. Tokyo. Lagos. São Paulo. Singapore. People who create extraordinary value and are tired of apologizing for it. People who are starting to connect. To share. To support each other."
 
 "A network."
 
@@ -4374,9 +4374,9 @@ It felt like both.
 
 Johannesburg felt like a different country.
 
-Moteka hadn't been here in two years. The Gautrain from the airport to Sandton was efficient, clean, fast—everything Warrenton wasn't. The financial district gleamed with glass and steel, a monument to capital and ambition. He felt simultaneously at home and like an alien.
+Moteka hadn't been here in two years. The Gautrain from the airport to Sandton was efficient, clean, fast—everything Kimberley wasn't. The financial district gleamed with glass and steel, a monument to capital and ambition. He felt simultaneously at home and like an alien.
 
-His 2015 Corolla would have looked absurd here. Everyone drove German sedans or Japanese SUVs. Everyone wore suits that cost more than most people in Warrenton made in a month. Everyone moved with purpose, with urgency, as if standing still meant falling behind.
+His 2015 Corolla would have looked absurd here. Everyone drove German sedans or Japanese SUVs. Everyone wore suits that cost more than most people in Kimberley made in a month. Everyone moved with purpose, with urgency, as if standing still meant falling behind.
 
 Moteka was wearing jeans and his least-offensive t-shirt—plain black, no jokes. Naledi had texted him: *Please don't wear a programming pun to meet Marcus. First impressions matter.*
 
@@ -4544,7 +4544,7 @@ Marcus nodded slowly. "That's the most honest thing anyone's said to me in six m
 
 The question hung between them like a challenge.
 
-Moteka looked at his coffee. At the expensive coffee shop in the expensive hotel in the city that had forgotten he existed. At the American investor who'd tracked him down in Warrenton because apparently, he mattered.
+Moteka looked at his coffee. At the expensive coffee shop in the expensive hotel in the city that had forgotten he existed. At the American investor who'd tracked him down in Kimberley because apparently, he mattered.
 
 "What do you want from me?" Moteka asked.
 
@@ -4606,7 +4606,7 @@ Moteka turned from the window. "You want me to walk back into the fire."
 
 "And if they're not?"
 
-"Then at least you'll know you tried. At least you'll have told the truth. At least you won't spend another three years hiding in Warrenton wondering what would have happened if you'd been brave."
+"Then at least you'll know you tried. At least you'll have told the truth. At least you won't spend another three years hiding in Kimberley wondering what would have happened if you'd been brave."
 
 The word landed like a punch. *Brave.*
 
@@ -4648,7 +4648,7 @@ Moteka looked at his empty coffee cup. Then at Marcus. Then out the window at Jo
 
 "When does Thabo arrive?"
 
-"In Warrenton? Tomorrow, if you say yes."
+"In Kimberley? Tomorrow, if you say yes."
 
 "And the conference? Cape Town?"
 
@@ -4694,7 +4694,7 @@ They walked out together. In the hotel lobby, they shook hands again.
 
 "Then they can't. But at least you'll know you told the truth. And somewhere, some young builder will hear it and realize they don't have to apologize for creating value. That's worth the risk."
 
-Moteka walked to the Gautrain station. Rode back to the airport. Flew back to the Northern Cape. Drove his 2015 Corolla from the airport to Warrenton. And all the while, he thought about network effects.
+Moteka walked to the Gautrain station. Rode back to the airport. Flew back to the Northern Cape. Drove his 2015 Corolla from the airport to Kimberley. And all the while, he thought about network effects.
 
 About circuits that connect.
 
@@ -5099,7 +5099,7 @@ The words landed like a punch.
 
 "No. They're not. Awareness without revision is just suffering. You taught me that. The old mystic taught you that. But you're still suffering."
 
-Moteka stood. Walked to the window. Looked out at Warrenton.
+Moteka stood. Walked to the window. Looked out at Kimberley.
 
 "You don't understand," he said quietly. "Last time I spoke publicly, my life fell apart. I lost my position. My reputation. My safety. It took three years to rebuild. And you want me to risk that again?"
 
@@ -5254,7 +5254,7 @@ The email disappeared.
 
 The decision was made.
 
-And somewhere between Warrenton and Soweto, on a taxi heading back to the township, a twenty-four-year-old programmer opened his laptop and started rewriting his pricing model.
+And somewhere between Kimberley and Soweto, on a taxi heading back to the township, a twenty-four-year-old programmer opened his laptop and started rewriting his pricing model.
 
 Fifteen percent interest.
 
@@ -5290,7 +5290,7 @@ The terror arrived exactly three minutes after clicking send. It came in waves�
 
 *What have you done?*
 
-He stood. Walked to the window. Warrenton at midnight looked exactly like Warrenton at any other hour—dark, quiet, indifferent. The universe did not care that Moteka Tlhoro had just committed to the thing he'd been running from for three years.
+He stood. Walked to the window. Kimberley at midnight looked exactly like Kimberley at any other hour—dark, quiet, indifferent. The universe did not care that Moteka Tlhoro had just committed to the thing he'd been running from for three years.
 
 *You can unsend it. Email Marcus. Tell him you made a mistake. Go back to safe.*
 
@@ -5372,7 +5372,7 @@ But others—other builders, other creators, other people who understood what it
 
 A network had formed. The Builders' Circle, years before Marcus Wright formalized it.
 
-And Moteka had never come to Warrenton to hide. He'd stayed in London. Taught. Built. Led.
+And Moteka had never come to Kimberley to hide. He'd stayed in London. Taught. Built. Led.
 
 He'd been visible. Compensated. Unapologetic.
 
@@ -5512,7 +5512,7 @@ He feels like himself.
 
 Moteka opened his eyes.
 
-His workshop. Midnight. Warrenton.
+His workshop. Midnight. Kimberley.
 
 But the feeling lingered. The assumption had worked. For those few minutes, he'd been there. Felt it. Inhabited it.
 
@@ -5733,7 +5733,7 @@ Sofia Mendoza sat in front of a display showing real-time satellite imagery of a
 **Singapore: 03:00**
 David Chen's environment was austere: a single monitor displaying code, a mechanical keyboard, nothing else visible. The kind of setup that said "I don't need much to move billions."
 
-**Warrenton: 21:00**
+**Kimberley: 21:00**
 And Moteka himself, workshop visible behind him, the Northern Cape stars already bright through the window.
 
 Marcus Wright's face appeared in a sixth window—San Francisco, 12:00, sitting in what looked like a coffee shop.
@@ -6052,7 +6052,7 @@ Moteka surprised himself by laughing.
 
 ---
 
-The call ended at 22:31 Warrenton time.
+The call ended at 22:31 Kimberley time.
 
 Moteka sat in the quiet of his workshop, staring at the blank screen where five faces had been.
 
@@ -6407,7 +6407,7 @@ Johannes smiled—the first real smile of the conversation.
 
 "You've been researching me."
 
-"Everyone's been researching you. You're the mystery speaker at the summit. The guy who builds AI systems from Warrenton and charges Fortune 500 prices. People are curious."
+"Everyone's been researching you. You're the mystery speaker at the summit. The guy who builds AI systems from Kimberley and charges Fortune 500 prices. People are curious."
 
 "What did you find out?"
 
@@ -6548,7 +6548,7 @@ That those people deserve to be compensated enough to keep building.
 
 I know this because I lived the alternative.
 
-I hid in Warrenton.
+I hid in Kimberley.
 I built in secret.
 I charged prices that felt safe.
 I apologized for being good at what I do.
@@ -7063,7 +7063,7 @@ Two minutes.
 
 Moteka closed his eyes.
 
-Thought about Warrenton. About his workshop. About the algorithms flowing through his mind at 3 AM. About the war he'd fought with himself for years.
+Thought about Kimberley. About his workshop. About the algorithms flowing through his mind at 3 AM. About the war he'd fought with himself for years.
 
 About the moment he'd stopped fighting.
 
@@ -7117,7 +7117,7 @@ Some knowing nods in the audience.
 
 The room was utterly quiet now.
 
-"The video went viral. 'AI Builder Admits Overcharging Farmers.' Within a week, three clients had canceled contracts. Within a month, I'd retreated to Warrenton, stopped taking calls, and was building systems in isolation while trying to figure out why I couldn't defend something I knew, intellectually, was defensible."
+"The video went viral. 'AI Builder Admits Overcharging Farmers.' Within a week, three clients had canceled contracts. Within a month, I'd retreated to Kimberley, stopped taking calls, and was building systems in isolation while trying to figure out why I couldn't defend something I knew, intellectually, was defensible."
 
 He looked directly at the audience.
 
@@ -7396,7 +7396,7 @@ He walked back to the podium. Gripped its edges.
 
 "I'll close with this."
 
-"My name is Moteka Tlhoro. I'm from Warrenton, Northern Cape, South Africa. I write code at 3 AM in a workshop while the rest of my town sleeps. I build systems that solve problems most people don't know exist."
+"My name is Moteka Tlhoro. I'm from Kimberley, Northern Cape, South Africa. I write code at 3 AM in a workshop while the rest of my town sleeps. I build systems that solve problems most people don't know exist."
 
 "I charge millions for my work. My clients pay gladly because the value I create exceeds the price I charge. I make more money than ninety-nine percent of people in my province. Probably in my country."
 
@@ -7672,7 +7672,7 @@ His phone buzzed.
 
 He returned to the code.
 
-Outside, Warrenton slept.
+Outside, Kimberley slept.
 
 Inside, algorithms flowed.
 

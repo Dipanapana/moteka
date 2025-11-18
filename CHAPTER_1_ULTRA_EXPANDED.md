@@ -5,7 +5,7 @@
 
 The cursor blinked at Moteka Tlhoro like an accusation.
 
-3:47 AM. Warrenton, Northern Cape, South Africa.
+3:47 AM. Kimberley, Northern Cape, South Africa.
 
 *You're wasting your life.*
 
@@ -15,7 +15,7 @@ The thought arrived unbidden, unwanted, but persistent. It always did at this ho
 
 "Shut up," Moteka whispered to the empty workshop.
 
-But the voice never shut up. That was the problem. That was the war he'd been fighting for three years, ever since London, ever since the disaster that made him retreat here, to Warrenton, to safety, to invisibility.
+But the voice never shut up. That was the problem. That was the war he'd been fighting for three years, ever since London, ever since the disaster that made him retreat here, to Kimberley, to safety, to invisibility.
 
 His workshop—a converted garage behind a modest house on Andries Street—glowed with the blue-white light of three monitors. The algorithms flowed from his fingers, each line of code a small act of creation. But tonight, the flow kept stopping.
 
@@ -25,7 +25,7 @@ He saved the file. Pushed back from the desk. The cheap office chair squeaked—
 
 "I said shut up."
 
-Moteka stood and walked to the window. Outside, Warrenton slept. Modest houses. Quiet streets. The occasional dog bark. The distant hum of the N12 highway carrying freight trucks between Cape Town and Johannesburg.
+Moteka stood and walked to the window. Outside, Kimberley slept. Modest houses. Quiet streets. The occasional dog bark. The distant hum of the N12 highway carrying freight trucks between Cape Town and Johannesburg.
 
 Three years ago, he'd stood in a conference hall in London, drunk, angry, and brilliant, and said things that ruined him. Three years ago, he'd been on track to become one of the most prominent AI researchers in the world. Three years ago, he'd believed his gift mattered.
 
@@ -53,7 +53,7 @@ A war between two versions of himself.
 
 The version that knew what he should do: speak publicly, build openly, charge his full value, teach the next generation, change the world with his gift.
 
-And the version that actually showed up every day: hiding, anonymous contracts, undercharging, working at 3 AM in Warrenton where nobody could see him fail again.
+And the version that actually showed up every day: hiding, anonymous contracts, undercharging, working at 3 AM in Kimberley where nobody could see him fail again.
 
 "I do not understand my own actions," he whispered to his reflection. "The things I want to do, I do not do. The things I hate doing, I keep doing."
 
@@ -69,7 +69,7 @@ Moteka had read every psychology book, every self-help manual, every meditation 
 
 *But it's not dying either.*
 
-Moteka opened his eyes and stared at his reflection in the window. Thirty-four years old. Eyes that hadn't slept properly in years. T-shirt that said "I HAVE A BOOLEAN BUT YOU WOULDN'T GET IT"—a joke nobody in Warrenton understood.
+Moteka opened his eyes and stared at his reflection in the window. Thirty-four years old. Eyes that hadn't slept properly in years. T-shirt that said "I HAVE A BOOLEAN BUT YOU WOULDN'T GET IT"—a joke nobody in Kimberley understood.
 
 He was one of the top AI engineers in Africa, possibly the world. He'd built systems that saved companies hundreds of millions. Neural networks that predicted equipment failures months in advance. Optimization algorithms that revolutionized supply chains.
 
@@ -201,7 +201,7 @@ But the system that protected him from pain also protected him from joy, from co
 
 ### PART 3: THE CONVENIENCE STORE CONFESSION
 
-At 4:15 AM, Moteka gave up on coding and walked three blocks to the only place in Warrenton that stayed open all night.
+At 4:15 AM, Moteka gave up on coding and walked three blocks to the only place in Kimberley that stayed open all night.
 
 Thandi's Convenience Store.
 
@@ -1267,7 +1267,7 @@ Mr. Sibeko was maybe seventy, maybe older—one of those men whose age was writt
 
 Moteka surprised himself by saying, "Yes. Actually, yes."
 
-They sat on the porch steps as the sun rose over Warrenton. Mr. Sibeko poured coffee from his thermos—somehow always the perfect temperature—and waited.
+They sat on the porch steps as the sun rose over Kimberley. Mr. Sibeko poured coffee from his thermos—somehow always the perfect temperature—and waited.
 
 "I got a call this morning," Moteka said. "A client in Germany. They want to pay me... a lot of money. More money than I ever imagined. But they want me visible. Public. My name on everything."
 
@@ -1351,7 +1351,7 @@ WHO AM I BECOMING?
 Current answer: Someone who hides.
 
 Evidence:
-- I live in Warrenton, away from major cities
+- I live in Kimberley, away from major cities
 - I work under generic LLC names
 - I refuse video calls
 - I undercharge to stay under the radar
@@ -1710,7 +1710,7 @@ And that changed everything.
 
 ### PART 10: THE GRADUAL CONTROL
 
-The drive back to Warrenton took two hours. Moteka used every minute of it to practice something Professor Nkosi had taught him: observing the voices.
+The drive back to Kimberley took two hours. Moteka used every minute of it to practice something Professor Nkosi had taught him: observing the voices.
 
 Not fighting them.
 Not arguing with them.
@@ -1788,7 +1788,7 @@ Mile 81-100:
 
 Mile 101-120:
 
-By the time Moteka pulled into his driveway in Warrenton, something had fundamentally changed.
+By the time Moteka pulled into his driveway in Kimberley, something had fundamentally changed.
 
 The Fear Voice was still there. But it wasn't in charge anymore.
 
@@ -1961,7 +1961,7 @@ Welcome back to the world, my friend.
 
 Moteka read it twice.
 
-Then he stood, walked to his window, and watched the sun rise over Warrenton.
+Then he stood, walked to his window, and watched the sun rise over Kimberley.
 
 Three years ago, he'd watched the sun set on his career in London.
 

@@ -3,7 +3,7 @@
 
 ### PART 1: THE ARRIVAL
 
-Dr. Naledi Khumalo arrived in Warrenton on a Thursday, unannounced.
+Dr. Naledi Khumalo arrived in Kimberley on a Thursday, unannounced.
 
 Moteka saw her Honda Civic pull up at 10:47 AM. He was awake—barely. Three hours of sleep scattered across a night spent finishing documentation for the German system, responding to Pieter's increasingly enthusiastic emails, and staring at his pricing spreadsheet like it was a bomb that might explode.
 
@@ -25,7 +25,7 @@ Just Naledi.
 
 She looked at his workshop, then at his house, then back at her phone. Checking the address, probably. Making sure this was really where one of the top AI engineers in Africa lived.
 
-A converted garage in Warrenton. Population: Nobody Important.
+A converted garage in Kimberley. Population: Nobody Important.
 
 She started walking toward the door.
 
@@ -109,7 +109,7 @@ He couldn't remember.
 
 "I told you why. I don't want to—"
 
-"Eighteen months ago, you published your last paper. Actually, you withdrew it before publication. Since then? Nothing. No conferences. No papers. No public presence whatsoever. Just contracts with anonymous clients and a workshop in Warrenton that even your own family doesn't visit."
+"Eighteen months ago, you published your last paper. Actually, you withdrew it before publication. Since then? Nothing. No conferences. No papers. No public presence whatsoever. Just contracts with anonymous clients and a workshop in Kimberley that even your own family doesn't visit."
 
 "My sister visits."
 
@@ -121,7 +121,7 @@ Moteka set down his sandwich. "How do you know that?"
 
 "I don't need—"
 
-"Yes, you do." Naledi's voice was gentle but firm. "Moteka, you're one of maybe fifty people on Earth who truly understand what you understand. You can build systems that change industries, save lives, create wealth. And you're sitting alone in Warrenton, taking contracts from people who will never know your name, building brilliance in the dark."
+"Yes, you do." Naledi's voice was gentle but firm. "Moteka, you're one of maybe fifty people on Earth who truly understand what you understand. You can build systems that change industries, save lives, create wealth. And you're sitting alone in Kimberley, taking contracts from people who will never know your name, building brilliance in the dark."
 
 "That's my choice."
 
@@ -216,7 +216,7 @@ He sat down in his squeaky chair.
 
 "So you came back to South Africa."
 
-"I quit everything. The job offers. The university position. Deleted all social media. Told everyone I was taking time off. And I came here. To Warrenton. Where nobody knew me. Nobody cared about AI ethics or tech Twitter or what some drunk researcher said in London."
+"I quit everything. The job offers. The university position. Deleted all social media. Told everyone I was taking time off. And I came here. To Kimberley. Where nobody knew me. Nobody cared about AI ethics or tech Twitter or what some drunk researcher said in London."
 
 "You went into hiding."
 
@@ -826,7 +826,7 @@ Moteka stared at the whiteboard.
 
 "Why me? Why does Marcus want me in this circle?"
 
-"Because you're one of the best AI engineers on the planet, and you're hiding in Warrenton. Because you undercharge systematically. Because you've built systems that change industries but refuse to put your name on them. Because..." She paused. "Because Marcus sees in you what he was twenty years ago. Brilliant, terrified, and one decision away from disappearing completely."
+"Because you're one of the best AI engineers on the planet, and you're hiding in Kimberley. Because you undercharge systematically. Because you've built systems that change industries but refuse to put your name on them. Because..." She paused. "Because Marcus sees in you what he was twenty years ago. Brilliant, terrified, and one decision away from disappearing completely."
 
 "Or one decision away from emerging."
 
@@ -848,9 +848,9 @@ Moteka was quiet for a long moment.
 
 Naledi smiled. "No. I'm adjacent to it. Marcus doesn't recruit academics—he recruits builders. But I've met most of them. Introduced several to each other. I'm like... the connector. The person who finds hiding builders and asks them: 'What if you didn't have to hide anymore?'"
 
-"Is that why you drove to Warrenton? To recruit me?"
+"Is that why you drove to Kimberley? To recruit me?"
 
-"I drove to Warrenton because I was worried about you. Marcus asking me to introduce you was just... convenient timing." She sat back down. "But yes. I think you belong in this circle. I think you need it. And I think they need you."
+"I drove to Kimberley because I was worried about you. Marcus asking me to introduce you was just... convenient timing." She sat back down. "But yes. I think you belong in this circle. I think you need it. And I think they need you."
 
 "Why would they need me?"
 
@@ -888,7 +888,7 @@ Naledi didn't answer immediately. She looked at him carefully.
 
 "It is. And he can't do it alone. He needs a network of builders who are willing to say publicly: 'I create massive value. I charge accordingly. I don't apologize. And the world is better because I exist.'"
 
-Moteka walked to the window. Looked out at Warrenton.
+Moteka walked to the window. Looked out at Kimberley.
 
 "I'm tired," he said quietly. "I'm tired of hiding. I'm tired of undercharging. I'm tired of being afraid that if I say what I actually believe—that builders deserve to profit—someone will destroy me for it."
 
@@ -946,7 +946,7 @@ Naledi smiled. "That's exactly the right answer."
 
 ### PART 9: THE DECISION
 
-They sat back down. The workshop was quiet except for the hum of monitors and the occasional distant sound of a car on Warrenton's streets.
+They sat back down. The workshop was quiet except for the hum of monitors and the occasional distant sound of a car on Kimberley's streets.
 
 "I'll meet him," Moteka said.
 
@@ -978,7 +978,7 @@ Three conditions:
 
 If Marcus agrees to these terms, send me the details.
 
-Also: Thank you. For driving to Warrenton. For telling me I was disappearing.
+Also: Thank you. For driving to Kimberley. For telling me I was disappearing.
 For seeing me when I couldn't see myself.
 
 I don't know if I'll actually join this circle. But I'm willing to find out
@@ -1088,7 +1088,7 @@ And below that, in his own handwriting:
 
 He stared at those words.
 
-Three years ago, he'd come to Warrenton to hide. To be safe. To survive.
+Three years ago, he'd come to Kimberley to hide. To be safe. To survive.
 
 Today, he'd agreed to meet Marcus Wright. To potentially join a circle of builders. To emerge.
 
@@ -1205,7 +1205,7 @@ And reality manifests from that.
 
 The cursor blinked on his monitor.
 
-Outside, Warrenton continued its slow Thursday afternoon.
+Outside, Kimberley continued its slow Thursday afternoon.
 
 And inside, in a converted garage on a quiet street, a man who'd spent three years hiding made a decision:
 

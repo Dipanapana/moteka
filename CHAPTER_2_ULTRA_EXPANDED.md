@@ -45,7 +45,7 @@ Jakob's email sat in his inbox, already read seventeen times:
 
 Welcome back.
 
-As if he'd been gone. As if the three years in Warrenton had been a vacation from reality rather than a retreat into it.
+As if he'd been gone. As if the three years in Kimberley had been a vacation from reality rather than a retreat into it.
 
 But maybe Jakob was right. Maybe hiding wasn't reality. Maybe hiding was just a very convincing simulation of reality, where you could pretend that staying small kept you safe.
 
@@ -190,7 +190,7 @@ The cursor blinked.
 
 ### PART 2: THE ABSURD MERCEDES
 
-At 2:00 PM, Moteka heard an engine that didn't belong in Warrenton.
+At 2:00 PM, Moteka heard an engine that didn't belong in Kimberley.
 
 A low, expensive purr. The kind of sound that cost more than most people's annual salary.
 
@@ -1545,7 +1545,7 @@ She smiled. "That's the secret. Act like the person you're becoming until you be
 
 ---
 
-The drive back to Warrenton was different.
+The drive back to Kimberley was different.
 
 Quieter.
 
@@ -1571,7 +1571,7 @@ What if playing small was the ultimate act of selfishness—because it protected
 
 *Moteka: I'm allowed to be afraid AND choose. Fear doesn't disqualify the choice.*
 
-He pulled into Warrenton just after midnight.
+He pulled into Kimberley just after midnight.
 
 His workshop looked the same as always. Modest house. Converted garage. Monitors glowing in the windows.
 
@@ -1594,7 +1594,7 @@ Conscious. Prepared. Strategic. Visible.
 Not recklessly visible like London.
 Strategically visible like Stuttgart.
 
-Not unconsciously hiding like Warrenton.
+Not unconsciously hiding like Kimberley.
 Consciously building like someone who knows his value.
 
 He walked into his workshop and sat at his desk.
@@ -1861,7 +1861,7 @@ When can you start?
 
 Moteka read it three times.
 
-Then he stood up, walked to the window, and looked out at Warrenton.
+Then he stood up, walked to the window, and looked out at Kimberley.
 
 Modest houses. Quiet streets. The N12 highway carrying trucks between cities.
 
@@ -1898,7 +1898,7 @@ The cursor blinked.
 
 He typed.
 
-And in a converted garage in Warrenton, a man who had spent three years hiding finally decided to be seen.
+And in a converted garage in Kimberley, a man who had spent three years hiding finally decided to be seen.
 
 ---
 

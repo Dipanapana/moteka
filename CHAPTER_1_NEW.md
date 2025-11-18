@@ -4,19 +4,19 @@
 
 The cursor blinked at Moteka Tlhoro like an accusation.
 
-3:47 AM. Warrenton, Northern Cape, South Africa.
+3:47 AM. Kimberley, Northern Cape, South Africa.
 
 The kind of silence that wraps around small towns like a blanket—or a shroud, depending on your mood. Tonight, Moteka wasn't sure which. His workshop—a converted garage behind a modest house on Andries Street—glowed with the blue-white light of three monitors, the only illumination for blocks. The algorithms flowed from his fingers like water finding its course, each line of code a small act of creation.
 
 But tonight, the flow kept stopping.
 
-He saved the file. Pushed back from the desk. The cheap office chair squeaked in protest—a sound that would have embarrassed him if anyone were listening. But at 3:47 AM in Warrenton, no one was listening. No one was ever listening.
+He saved the file. Pushed back from the desk. The cheap office chair squeaked in protest—a sound that would have embarrassed him if anyone were listening. But at 3:47 AM in Kimberley, no one was listening. No one was ever listening.
 
 "What are you doing, Moteka?" he asked the empty room.
 
 The question hung in the air. Not rhetorical. Genuine.
 
-He stood and walked to the window. Outside, Warrenton slept. Modest houses. Quiet streets. The occasional dog bark. The distant hum of the N12 highway carrying freight trucks between Cape Town and Johannesburg. This was his world. Or rather, this was the world he'd chosen to hide in.
+He stood and walked to the window. Outside, Kimberley slept. Modest houses. Quiet streets. The occasional dog bark. The distant hum of the N12 highway carrying freight trucks between Cape Town and Johannesburg. This was his world. Or rather, this was the world he'd chosen to hide in.
 
 "I am," he said to his reflection in the darkened window, "aware."
 
@@ -46,7 +46,7 @@ And he was desperately, crushingly alone.
 
 ## Part 2: The Convenience Store Confession
 
-At 4:15 AM, Moteka gave up on coding and walked the three blocks to the only place in Warrenton that stayed open all night: Thandi's Convenience Store.
+At 4:15 AM, Moteka gave up on coding and walked the three blocks to the only place in Kimberley that stayed open all night: Thandi's Convenience Store.
 
 The bell chimed as he entered. Thandi looked up from her magazine—some celebrity gossip thing that Moteka could never understand the appeal of—and smiled.
 
@@ -54,7 +54,7 @@ The bell chimed as he entered. Thandi looked up from her magazine—some celebri
 
 "Something like that."
 
-Thandi was maybe sixty, maybe seventy—one of those ageless Black women who could be anywhere between fifty and eighty and you'd never know. She'd owned this store for thirty years, long before Moteka moved back to Warrenton. She knew everyone in town. And she'd known, from the first time Moteka stumbled in at 3 AM looking for coffee, that he was running from something.
+Thandi was maybe sixty, maybe seventy—one of those ageless Black women who could be anywhere between fifty and eighty and you'd never know. She'd owned this store for thirty years, long before Moteka moved back to Kimberley. She knew everyone in town. And she'd known, from the first time Moteka stumbled in at 3 AM looking for coffee, that he was running from something.
 
 "The usual?" she asked.
 
@@ -308,7 +308,7 @@ Could he prove it in life?
 
 ## Part 4: The Call from Stuttgart
 
-At 6:30 AM, as the sun began to light the edges of Warrenton's horizon, Moteka's phone rang.
+At 6:30 AM, as the sun began to light the edges of Kimberley's horizon, Moteka's phone rang.
 
 Jakob Schmidt. The German operations director.
 
@@ -348,7 +348,7 @@ Another long pause.
 
 Moteka closed his eyes. This was the moment. The fork in the road.
 
-He could say no. He could send Jakob a PowerPoint deck. He could stay hidden, stay safe, stay in Warrenton at 3 AM fighting himself.
+He could say no. He could send Jakob a PowerPoint deck. He could stay hidden, stay safe, stay in Kimberley at 3 AM fighting himself.
 
 Or he could say yes. He could step into the light. He could be the builder he knew he was capable of being.
 
@@ -408,7 +408,7 @@ Moteka felt something stirring. A question forming.
 
 "Mr. Sibeko," he said carefully, "what if I told you that I'm building systems that could change that? Not for your son specifically. But for millions of people like your son. Systems that make everything more efficient. Cheaper. More accessible."
 
-"I would ask you: why are you hiding in Warrenton instead of building those systems?"
+"I would ask you: why are you hiding in Kimberley instead of building those systems?"
 
 The question hit like a physical blow.
 
@@ -571,7 +571,7 @@ Moteka
 
 He hit send before he could second-guess himself.
 
-Then he stood, walked to the window, and looked out at Warrenton in the morning light.
+Then he stood, walked to the window, and looked out at Kimberley in the morning light.
 
 Somewhere in town, Mr. Sibeko was making breakfast.
 Somewhere else, Thandi was closing her store for a few hours of sleep.
@@ -617,7 +617,7 @@ A new Moteka was emerging.
 *Are you undercharging because you don't believe in your value?*
 *Are you staying small because "I AM not ready" is your identity?*
 
-*Here's what Moteka discovered at 3 AM in Warrenton:*
+*Here's what Moteka discovered at 3 AM in Kimberley:*
 
 *The words after I AM become your reality.*
 
