@@ -427,14 +427,274 @@ Moteka sat back down.
 
 ---
 
-**[Chapter 5 continues with Parts 6-12, expanding to 20,000+ words total...]**
+### PART 6: VISITING THE CLIENTS (CONTEXT MATTERS)
+
+"I want to meet your clients," Moteka said. "All of this is theoretical until I see the actual context. Can we visit a few today?"
+
+Thabo checked his phone. "I can call Mrs. Dlamini. She runs a spaza shop three streets over. She's been using the system for four months."
+
+"Let's go."
 
 ---
 
-**Status: First 5 parts complete (~6,000 words)**
+They walked through Soweto's streets. Mid-morning, mid-week. The township was alive—people everywhere, vendors calling, taxis honking, life at full volume. Different from Warrenton's quiet. Different from Cape Town's tourism. This was working-class Johannesburg. Hustle and survival and community all mixed together.
+
+Mrs. Dlamini's shop was a typical spaza: small room attached to a house, selling basics—bread, milk, eggs, airtime, cigarettes. The kind of shop that exists on every street in every township in South Africa. Essential infrastructure for communities where big grocery stores are kilometers away.
+
+Mrs. Dlamini herself was maybe sixty. Headscarf, apron, warm smile. "Thabo!" she called when they entered. "And who is this?"
+
+"Mrs. D, this is Mr. Tlhoro. He's a software developer helping me with business strategy."
+
+"Ah! The famous Moteka? Thabo talks about you." She shook Moteka's hand firmly. "You taught him to charge properly, I hope? This boy is too cheap with his pricing."
+
+Moteka laughed. "That's actually why I'm here. Can I ask you some questions about Thabo's system?"
+
+"Of course. Sit, sit." She gestured to plastic chairs near the counter.
+
+"How much does the system help you?" Moteka asked.
+
+"Oh, it's wonderful. Before, I was doing everything on paper. Counting stock every night. Writing it down. Trying to remember what sold and what didn't. Taking me two, three hours every evening. Now?" She pulled out her phone—a slightly battered Android. "I check this. It tells me everything. What I need to order. What's selling. What's not. Takes me ten minutes."
+
+"So it saves you about two hours per day?"
+
+"At least."
+
+"And you pay R500 per month?"
+
+"Yes."
+
+"What if Thabo charged R1,500?"
+
+Mrs. Dlamini thought for a moment. "I'd still pay it. The time I save is worth more than that. Plus, it helped me catch my nephew stealing." She lowered her voice. "He was taking cigarettes. Small amounts. But over a month, R2,000 worth. The system showed me the pattern. I confronted him. He admitted it. That alone paid for six months of the system."
+
+"Would you pay R2,000 per month?"
+
+"Probably. It makes my life easier. And I'm making more money because I'm not running out of bread and milk anymore. Thabo's system tells me when to reorder before I'm out."
+
+Moteka looked at Thabo. Thabo was staring at Mrs. Dlamini like she'd just revealed a secret.
+
+"You never told me you'd pay more," Thabo said.
+
+"You never asked," Mrs. Dlamini replied. "You set the price. I paid it. I thought that's what it cost."
+
+---
+
+They visited two more clients that day:
+
+**Client 2: Mr. Nkosi (hardware store)**
+- Currently paying R500/month
+- System saves him 3 hours daily + prevents R5,000/month in theft
+- Would pay up to R2,500/month ("It's cheaper than hiring someone to manage inventory")
+
+**Client 3: Sisters Grocery (small grocery)**
+- Currently paying R500/month
+- System prevents R8,000/month in waste (spoiled produce) + optimizes ordering
+- Would pay up to R3,000/month ("We make that back in the first week from reduced waste")
+
+By 3 PM, they were sitting in a Nando's, eating chicken and processing what they'd learned.
+
+"They'd all pay more," Thabo said, still stunned. "Significantly more."
+
+"Because they understand the value. You were optimizing for their approval. They were experiencing value. Those are different currencies."
+
+"So I've been leaving money on the table."
+
+"Worse. You've been training them to undervalue your work. When you charge R500 for something worth R6,000, you teach them that software has no value. That's not generosity. That's miseducation."
+
+Thabo put down his chicken. "Okay. I'm convinced. I should raise prices. But how? If I email everyone tomorrow saying 'by the way, it's now R1,500,' they'll think I'm a scammer."
+
+"You're right. So we do it strategically."
+
+Moteka pulled out a notepad and started sketching:
+
+```
+PRICING TRANSITION STRATEGY
+
+Phase 1 (Immediate):
+- No price changes for existing clients (yet)
+- New clients get quoted R1,500/month
+- Grandfather existing clients at R500 for 6 months
+
+Phase 2 (After proving value with new pricing):
+- Email existing clients: "New pricing is R1,500. You're currently on legacy pricing of R500. We're offering you a locked rate of R1,000/month if you upgrade in next 30 days."
+
+Phase 3 (6 months from now):
+- All legacy clients transition to R1,500 or new market rate
+- By then, you'll have proven the new pricing works
+
+Why this works:
+- New clients never know about old pricing
+- Existing clients feel valued (locked rate)
+- You increase revenue gradually
+- You prove to yourself that people will pay
+```
+
+"This feels... manipulative?" Thabo said.
+
+"It's not. It's business. You're not lying. You're not tricking anyone. You're transitioning to accurate pricing while respecting existing relationships. That's professionalism."
+
+"What if they all leave?"
+
+"Some might. Most won't. Because the value is real. And the people who leave? They were always going to leave. You can't build a sustainable business on clients who only stay because you're cheap."
+
+Thabo nodded slowly. "Okay. I'll do it. Starting tomorrow, new clients get quoted R1,500."
+
+"Good. Now let's talk about the harder problem."
+
+"What's the harder problem?"
+
+"Your community's reaction when they find out you're charging 'premium' prices."
+
+---
+
+### PART 7: THE UBUNTU QUESTION (COMMUNITY VS. INDIVIDUAL)
+
+They walked through Soweto's streets back toward Thabo's house. The sun was lower now. Township life shifting from day to evening. Street vendors packing up. Kids walking home from school. Taxis filling with workers heading back from Johannesburg's city center.
+
+"Tell me about Ubuntu," Moteka said.
+
+"What do you want to know?"
+
+"What does it mean to you?"
+
+Thabo thought for a moment. "I am because we are. Individual success is meaningless without community success. When one person eats, everyone should eat. We rise together or not at all."
+
+"Beautiful philosophy."
+
+"You don't believe it?"
+
+"I believe it's been weaponized against builders."
+
+Thabo stopped walking. "What do you mean?"
+
+"Ubuntu is supposed to mean: the community supports individuals so individuals can thrive and give back. But somewhere it got twisted into: individuals sacrifice themselves for the community whether it destroys them or not."
+
+"That's... harsh."
+
+"Is it? Let me ask you: when you built your system, did the community invest in you?"
+
+"No. I did it alone."
+
+"Did they pay for your education?"
+
+"I taught myself. Online courses. Pirated textbooks."
+
+"Did they support you when you quit the call center to build full-time?"
+
+"No. They told me I was being irresponsible. That I should keep the stable job."
+
+"So the community didn't invest in your becoming. But now that you've built something valuable, they expect you to give it away. Is that Ubuntu? Or is that exploitation?"
+
+Thabo was quiet.
+
+"Real Ubuntu," Moteka continued, "would look like this: the community invests in talented individuals. Those individuals build valuable things. They price those things fairly. They become successful. They reinvest in the next generation. Everyone wins."
+
+"But fake Ubuntu looks like what?"
+
+"The community takes no risk. The individual takes all the risk. When the individual succeeds, the community demands free access. When the individual fails, the community says 'I told you so.' The individual burns out. Quits. The community loses its builders. Foreign companies fill the gap. Everyone loses."
+
+They started walking again.
+
+"I've never thought about it that way," Thabo said.
+
+"That's because you've been taught to feel guilty for wanting fair compensation. That guilt serves someone. But it's not serving you. And it's not serving your community."
+
+"Who does it serve?"
+
+"The people who benefit from African talent being cheap. Who do you think is happy when African developers charge R500 for work worth R5,000?"
+
+"Foreign SaaS companies?"
+
+"Foreign SaaS companies. Because when you burn out and quit, they charge R5,000 for inferior products and your community pays it. Your underpricing doesn't protect your community from expensive software. It just ensures the expensive software comes from outside Africa instead of from within."
+
+They reached Thabo's house. Sat on the front step.
+
+"So what's the right version of Ubuntu?" Thabo asked.
+
+"Charge fairly. Build sustainably. Succeed visibly. Then teach others to do the same. That's how you serve your community. Not by destroying yourself trying to be cheap."
+
+"And when people say I'm being greedy?"
+
+"Ask them: 'Am I being greedy? Or are you asking me to subsidize your business?' Because that's what undercharging is—a subsidy. You're giving them R5,500 of value for free every month. That's your money. Your time. Your expertise. They don't get to call you greedy for wanting to keep what you create."
+
+Thabo laughed. "I can't say that to Mrs. Dlamini."
+
+"No. But you can think it. And you can make decisions from that clarity instead of from guilt."
+
+---
+
+### PART 8: THE RESISTANCE (INTERNAL DIALOGUE)
+
+They went inside. Thabo made rooibos tea. They sat in his small living room. His mother's house. Pictures on the wall—family, graduation, younger Thabo in school uniform.
+
+"Can I be honest about something?" Thabo asked.
+
+"Please."
+
+"Part of me still thinks charging more is wrong. Like, intellectually I understand everything you're saying. The math makes sense. The value is real. But emotionally? I feel like I'm betraying something."
+
+"That's the guilt talking. And it's not your fault. You've been trained to feel that way."
+
+"By who?"
+
+"By everyone who benefits from your guilt. Your teachers who said 'give back to the community.' Your pastor who said 'money is the root of evil.' Your friends who said 'don't change, don't think you're better than us.' Your family who said 'help your people.' All of it sounded noble. But what it actually did was teach you that charging your worth is a sin."
+
+Thabo nodded. "My mother says that all the time. 'Thabo, don't forget where you come from. Don't let money change you.'"
+
+"Does she want you to fail?"
+
+"No!"
+
+"Then why is she teaching you that success equals betrayal?"
+
+Silence.
+
+"Here's what nobody told you," Moteka said. "Success doesn't mean abandoning your community. Success means having resources to help your community. You can't help anyone if you're broke. You can't teach anyone if you've quit building. You can't change anything if you've burned out."
+
+"So charging fairly is actually the moral choice?"
+
+"Charging fairly is the sustainable choice. And sustainability is what allows long-term impact. Your R500 pricing serves 23 clients for maybe a year before you quit. Your R1,500 pricing serves 15 clients for a decade and allows you to hire developers, which creates jobs, which helps more people."
+
+Thabo was processing. Moteka could see it—the mental wrestling. The old programming vs. new information.
+
+"There's a voice in my head," Thabo said quietly, "that keeps saying: 'Who do you think you are? You're from Soweto. You're not supposed to charge premium prices. Know your place.'"
+
+"I know that voice. I've been listening to it for three years."
+
+"How do you make it stop?"
+
+"You don't. You just learn to act despite it. The voice never goes away. But you can choose which voice you listen to."
+
+"How many voices do you have?"
+
+Moteka smiled. "Four. Minimum. Frightened voice, confident voice, rational voice, and the deepest voice that just says 'I AM.'"
+
+"Which one do you listen to?"
+
+"All of them. But I don't let any single one make the decision. I let them all speak. Then I choose based on what serves my long-term becoming, not my short-term comfort."
+
+"And right now, what are they saying about me raising prices?"
+
+Moteka closed his eyes. Listened.
+
+"Frightened voice says: He'll fail. Clients will leave. Community will attack. He'll be destroyed like you were in London."
+
+"Confident voice says: He'll succeed. The value is real. The clients will pay. He'll build something sustainable."
+
+"Rational voice says: The math supports it. The evidence supports it. The risk is acceptable."
+
+"Deepest voice says: He's becoming who he needs to become. This is part of his journey. Your job is to guide, not protect."
+
+Moteka opened his eyes.
+
+"So yes. Raise your prices. And when the frightened voice screams, acknowledge it. Thank it for trying to protect you. And do it anyway."
+
+---
+
+**[Continuing to 20,000 words...]**
+
+---
+
+**Status: ~8,500 words**
 **Target: 20,000+ words**
-**Next: Thabo's transformation, client visits, the moral argument for profit, teaching moment completion**
-
----
-
-*Continuing immediately...*
+**Next sections: The implementation, community reaction, teaching reflection, Moteka's journal**
